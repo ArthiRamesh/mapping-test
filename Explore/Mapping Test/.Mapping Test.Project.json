@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "jJU2boDEaAzj5LjyjlpVas",
+    "name" : "Mapping Test",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-11T04:55:25.032Z",
+  "objectRefs" : [ ]
+}
